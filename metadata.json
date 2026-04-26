@@ -1,0 +1,6 @@
+{
+  "name": "CodeMobile IDE",
+  "description": "A high-performance, mobile-optimized code editor with IntelliSense, extensions, and an integrated AI coding agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI_AGENT", "CODE_EDITOR"]
+}
